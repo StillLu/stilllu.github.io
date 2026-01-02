@@ -21,7 +21,7 @@ params:
   profileMode:
     enabled: true
     title: "Welcome to LU Blog"
-    subtitle: "Hi, this is LU. I’m documenting my learning notes here."
+    subtitle: "Notes on thinking, work, and the space in between."
     buttons:
       - name: Posts
         url: "/posts/"
